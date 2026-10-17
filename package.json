@@ -1,0 +1,22 @@
+{
+  "name": "nature-talk",
+  "version": "1.0.0",
+  "description": "Tech / AI Advancements for the Nature Around Us - Marp Presentation",
+  "main": "slides.md",
+  "scripts": {
+    "start": "npx @marp-team/marp-cli -s .",
+    "preview": "npx @marp-team/marp-cli -p slides.md",
+    "build:html": "npx @marp-team/marp-cli --html slides.md -o index.html",
+    "build:pdf": "npx @marp-team/marp-cli --pdf slides.md -o presentation.pdf"
+  },
+  "keywords": [
+    "marp",
+    "presentation",
+    "ai",
+    "nature",
+    "ecology",
+    "agriculture"
+  ],
+  "author": "Peter Sody",
+  "license": "MIT"
+}
