@@ -729,6 +729,11 @@ style: |
 ### Questions & Discussion
 
 <div style="margin-top: 1.5rem; font-size: 0.95em; line-height: 1.8; color: #d8f3dc;">
-  🌿 <strong>Discussion:</strong> How can residential technology further reconnect modern households with natural ecological rhythms?<br>
+  🌿 <strong>Discussion:</strong> <br>
+  <ul>
+      <li>How can technology further reconnect modern households with nature?</li>
+      <li>To what degree do we want to utilize tech in nature?</li>
+      <li>Is current tech leading us to what we want for nature?</li>
+  </ul>
   📬 <strong>Contact:</strong> nature@sody.us<br>
   💻 <strong>Slide Deck:</strong> <a href="https://github.com/pesody/tech-nature">github: pesody/tech-nature</a>
